@@ -1,4 +1,4 @@
-# object_detection_ model
+# Object detection model
 
 ## 🚀 What It Does
 
@@ -28,6 +28,4 @@
 
 ---
 
-**Author**: [Your Name]  
-**Platform**: Google Colab  
-**License**: MIT  
+
